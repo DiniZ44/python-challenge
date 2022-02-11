@@ -1,6 +1,6 @@
 # Python Challenge 20211119 Hakkinen Diniz
 
-Projeto referente ao Desafio Técnico! Para a oportunidade Data Analyst em Deep ESG utilizando python e a bibliotecas panda
+Projeto referente ao Desafio Técnico utilizando python e a bibliotecas panda
 
 ## Requerimentos:
 
