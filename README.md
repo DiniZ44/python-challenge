@@ -1,6 +1,6 @@
 # Python ChallengeUpd Hakkinen Diniz
 
-Projeto referente ao Desafio Técnico utilizando python e a bibliotecas panda
+Projeto referente ao Desafio Técnico utilizando python e a biblioteca pandas
 
 ## Requerimentos:
 
